@@ -1,0 +1,6 @@
+--> Lightbox:
+image is centered, image responds to window height, lightbox has 3 sections, LB has a transparent backdrop, shows up when clicking image, closes when the background is clicked, "X" to close the LB when clicked, clicking on image changes image, image has prev/next controls which moves to prev next image. <--
+
+<!DOCTYPE>
+
+
